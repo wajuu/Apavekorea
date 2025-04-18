@@ -1,29 +1,12 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>제12회 부산국제기계대전 BUTECH 2025 온라인 초청장</title>
 </head>
 
 <body>
-	<style>
-	table{border-spacing:0;}
-	tr, td, img{margin:0; padding:0;font-size:0;border:none;}
-	img{display:block;}
-	img{vertical-align:top;}
-</style>
 <table border="0" align="center">
     <tr>
         <td><p>&nbsp;</p>
-
-	  </td>
-		
-		<td>&nbsp;</td>
-		
-		<td>&nbsp;</td>
-		
-		<td></td>
-	
   </tr>
 </table>
 <strong><img src="https://i.imgur.com/ESluFWz.png" width="1150" usemap="#Map2"></strong>
